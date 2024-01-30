@@ -12,7 +12,7 @@
 ✨ Full Stack Developer, Product Manager and Open Source Contributor.
 
   
-    <div align="center">
+  <div align="center">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravtom&langs_count=8&theme=tokyonight&layout=compact" target="_blank" rel="noopener noreferrer" title="My Skill Status">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravtom&langs_count=8&theme=tokyonight&layout=compact" height="180rem" />
     </a>&nbsp;
@@ -20,6 +20,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sauravtom&show_icons=true&count_private=true&theme=tokyonight" height="180rem"/>
     </a>
     </div>
+    
  <div align="right"><br/>
 <!-- <a href="https://github.com/uditkumar01"><img src="https://komarev.com/ghpvc/?username=uditkumar01&style=flat&color=yellowgreen" /></a></div> -->
     
